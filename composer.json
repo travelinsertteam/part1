@@ -1,0 +1,12 @@
+{
+    "name": "wheelscar/part1",
+    "description": "test",
+    "type": "package",
+    "autoload":
+    {
+    	"psr4":{
+    	"Praveen\\": "services/"
+    }
+    },
+    "require": {}
+}
