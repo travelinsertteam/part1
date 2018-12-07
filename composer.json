@@ -2,6 +2,7 @@
     "name": "wheelscar/part1",
     "description": "test",
     "type": "package",
+    "minimum-stability" : "dev",
     "autoload":
     {
     	"psr-4":{
